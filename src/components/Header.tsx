@@ -66,4 +66,5 @@ const Header: React.FC<HeaderProps> = ({children, className}) => {
     </div>
   )
 }
- export default Header
+
+export default Header
